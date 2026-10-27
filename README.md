@@ -1,5 +1,1 @@
-# Infra project
-
-Учебный инфраструктурный репозиторий курса 
-
-<!-- Допишите сюда -->
+Midterm devOPs Kazakova Aidai
